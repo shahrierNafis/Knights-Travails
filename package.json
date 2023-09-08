@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrierNafis/Knights-Travails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrierNafis/Knights-Travails/issues"
+  },
+  "homepage": "https://github.com/shahrierNafis/Knights-Travails#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  },
+  "dependencies": {
+    "queue": "^7.0.0"
+  }
+}
